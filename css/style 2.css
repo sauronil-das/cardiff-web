@@ -1,0 +1,39 @@
+.navbeauty
+{
+    box-sizing: border-box;
+    display: block;
+}
+.navbar{
+    float: right;
+    display: block; 
+}
+ .navli {
+    display: inline;
+ }
+
+ .secondary_nav{
+    display: block;
+    box-sizing: border-box;
+ }
+ 
+ nav{
+    display:block;
+ }
+
+.nav2_li
+ {
+    display: inline;
+
+ }
+
+ #lang
+ {
+    float: right;
+ }
+
+ #logo
+ {
+    float: left;
+ }
+
+ nav 
